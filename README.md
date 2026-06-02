@@ -14,9 +14,9 @@
 
 В проекте использованы следующие открытые наборы данных:
 
-🔗 **[DUSHA](https://github.com/salute-developers/DUSHA)** — русскоязычный корпус размеченных диалогов с семантической и эмоциональной разметкой.
+🔗 **[DUSHA](https://github.com/salute-developers/golos)** — русскоязычный корпус размеченных диалогов с семантической и эмоциональной разметкой.
 
-🔗 **[RESD](https://github.com/salute-developers/RESD)** — Russian Emotional Speech Database, записи русскоязычной эмоциональной речи.
+🔗 **[RESD](https://huggingface.co/datasets/Aniemore/resd)** — Russian Emotional Speech Database, записи русскоязычной эмоциональной речи.
 
 ---
 
@@ -64,7 +64,7 @@
 
 Готовый к запуску архив с прототипом можно скачать по ссылке:
 
-**[Скачать прототип ISA (Google Диск)]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1hJg_2X4nJ78E3cfZcrpWs1dGorueQ2yf/view?usp=sharing))**
+**[Скачать прототип ISA (Google Диск)](https://drive.google.com/file/d/1hJg_2X4nJ78E3cfZcrpWs1dGorueQ2yf/view?usp=sharing)**
 
 ### Инструкция по запуску
 
