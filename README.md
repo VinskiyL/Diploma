@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![Django](https://img.shields.io/badge/Django-4.2+-green.svg)](https://www.djangoproject.com/)
 [![GigaAM](https://img.shields.io/badge/GigaAM-CTC%2FEmo-orange)](https://github.com/salute-developers/gigaam)
-[![RuBERT](cointegrated/rubert-tiny2)
+[![RuBERT](https://img.shields.io/badge/RuBERT-tiny2-yellow)](https://huggingface.co/cointegrated/rubert-tiny2)
 
 **Проактивная система безопасности для такси на основе анализа аудиопотока в реальном времени.**
 
